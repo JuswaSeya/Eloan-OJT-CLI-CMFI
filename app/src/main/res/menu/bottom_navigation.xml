@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_add_transaction"
+        android:icon="@drawable/ic_add_transaction"
+        android:title="Add" />
+
+    <item
+        android:id="@+id/navigation_client_info"
+        android:icon="@drawable/ic_client_info"
+        android:title="Clients" />
+
+    <item
+        android:id="@+id/navigation_vpn"
+        android:icon="@drawable/ic_vpn"
+        android:title="VPN" />
+
+    <item
+        android:id="@+id/navigation_transaction_history"
+        android:icon="@drawable/ic_dashboard"
+        android:title="transaction_history" />
+
+    <item
+        android:id="@+id/navigation_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout" />
+</menu>
